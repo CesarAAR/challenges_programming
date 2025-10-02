@@ -35,5 +35,5 @@ Cada ejercicio está desarrollado de manera sencilla y comentada para su fácil 
 
 2.- Ejecuta cualquier reto:
   ```bash
-  python fizzbuzz.py
+  python c1_fizzbuzz.py
   ```
